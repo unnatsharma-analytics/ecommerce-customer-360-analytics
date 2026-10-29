@@ -1,0 +1,34 @@
+﻿file_name,column_name,description
+customers.csv,customer_id,Unique customer key
+customers.csv,customer_name,Synthetic customer name; use only for practice
+customers.csv,city,Simulated Indian city
+customers.csv,state,Simulated Indian state/UT
+customers.csv,signup_date,Customer registration date
+products.csv,product_id,Unique product key
+products.csv,product_name,Product name
+products.csv,category,Product category
+products.csv,unit_price_inr,List price per unit in INR
+products.csv,unit_cost_inr,Simulated cost per unit in INR; supports illustrative profit analysis
+orders.csv,order_id,Unique order key
+orders.csv,customer_id,Links to customers.customer_id
+orders.csv,order_date,Order timestamp
+orders.csv,order_status,"Delivered, Cancelled, Returned, or Shipped"
+orders.csv,estimated_delivery_date,Simulated estimated delivery date
+orders.csv,delivered_date,Simulated delivery date; blank for undelivered orders
+order_items.csv,order_item_id,Unique order-line key
+order_items.csv,order_id,Links to orders.order_id
+order_items.csv,product_id,Links to products.product_id
+order_items.csv,quantity,Units in the order line
+order_items.csv,unit_price_inr,Selling price per unit before discount
+order_items.csv,discount_pct,Discount percentage as whole number
+order_items.csv,discount_amount_inr,Discount amount for the line
+order_items.csv,line_total_inr,Line value after discount
+order_items.csv,unit_cost_inr,Simulated unit cost copied for straightforward beginner analysis
+payments.csv,payment_id,Unique payment row key
+payments.csv,order_id,Links to orders.order_id
+payments.csv,payment_method,Simulated payment method
+payments.csv,payment_amount_inr,Simulated payment amount; may differ slightly from line totals for reconciliation practice
+returns.csv,return_id,Unique return record key
+returns.csv,order_id,Links to orders.order_id
+returns.csv,return_date,Simulated return date
+returns.csv,return_reason,Simulated return reason

@@ -1,0 +1,72 @@
+﻿return_id,order_id,return_date,return_reason
+1,50006,2024-12-07,Changed mind
+2,50044,2025-08-07,Damaged item
+3,50049,2025-06-08,Changed mind
+4,50064,2024-09-14,Changed mind
+5,50074,2025-01-11,Wrong product
+6,50085,2024-10-18,Not as expected
+7,50134,2024-09-19,Size/fit issue
+8,50138,2025-11-12,Damaged item
+9,50159,2025-05-27,Not as expected
+10,50169,2024-11-06,Size/fit issue
+11,50186,2024-12-06,Changed mind
+12,50193,2024-02-27,Not as expected
+13,50243,2025-01-13,Changed mind
+14,50252,2024-06-17,Changed mind
+15,50288,2024-09-01,Size/fit issue
+16,50301,2025-10-13,Size/fit issue
+17,50305,2025-12-13,Changed mind
+18,50318,2024-08-27,Not as expected
+19,50322,2024-04-04,Changed mind
+20,50345,2025-12-25,Size/fit issue
+21,50361,2024-05-13,Not as expected
+22,50364,2024-02-18,Damaged item
+23,50365,2025-06-27,Not as expected
+24,50373,2025-06-17,Size/fit issue
+25,50392,2024-06-26,Not as expected
+26,50403,2024-04-01,Size/fit issue
+27,50422,2024-12-08,Size/fit issue
+28,50428,2024-09-08,Size/fit issue
+29,50447,2025-08-16,Damaged item
+30,50449,2025-05-06,Changed mind
+31,50463,2024-07-28,Damaged item
+32,50483,2024-08-19,Not as expected
+33,50484,2024-06-11,Not as expected
+34,50503,2025-02-12,Changed mind
+35,50520,2025-06-20,Size/fit issue
+36,50591,2024-08-15,Not as expected
+37,50595,2025-10-10,Not as expected
+38,50606,2025-07-29,Not as expected
+39,50640,2025-02-08,Changed mind
+40,50643,2025-03-12,Size/fit issue
+41,50662,2024-12-17,Wrong product
+42,50665,2024-06-09,Wrong product
+43,50681,2024-05-22,Damaged item
+44,50682,2024-03-12,Size/fit issue
+45,50692,2024-01-19,Wrong product
+46,50708,2025-01-22,Not as expected
+47,50715,2024-08-06,Size/fit issue
+48,50718,2025-06-29,Damaged item
+49,50736,2025-02-21,Not as expected
+50,50760,2025-03-04,Size/fit issue
+51,50767,2025-07-24,Damaged item
+52,50780,2025-11-02,Size/fit issue
+53,50815,2025-09-03,Wrong product
+54,50826,2024-09-01,Damaged item
+55,50903,2025-09-09,Changed mind
+56,50904,2025-09-10,Wrong product
+57,50932,2024-10-28,Changed mind
+58,50951,2025-01-05,Changed mind
+59,50963,2025-02-26,Damaged item
+60,50967,2025-02-01,Wrong product
+61,50969,2025-01-29,Changed mind
+62,50987,2024-12-15,Damaged item
+63,50994,2024-10-15,Size/fit issue
+64,51003,2025-05-07,Wrong product
+65,51032,2025-03-20,Damaged item
+66,51071,2025-10-08,Not as expected
+67,51077,2025-09-30,Size/fit issue
+68,51104,2025-12-12,Not as expected
+69,51135,2025-11-02,Not as expected
+70,51185,2024-02-07,Wrong product
+71,51197,2025-09-08,Size/fit issue

@@ -1,0 +1,31 @@
+﻿product_id,product_name,category,unit_price_inr,unit_cost_inr
+1001,Wireless Mouse,Electronics,1299,666.91
+1002,Keyboard,Electronics,1599,899.45
+1003,Headphones,Electronics,349,182.13
+1004,Power Bank,Electronics,249,170.07
+1005,Smart Watch,Electronics,2999,1930.19
+1006,USB Hub,Electronics,999,605.97
+1007,Mixer Grinder,Home & Kitchen,199,101.11
+1008,Water Bottle,Home & Kitchen,349,220.43
+1009,Storage Box,Home & Kitchen,199,129.03
+1010,Desk Lamp,Home & Kitchen,1599,1079.27
+1011,Cookware Set,Home & Kitchen,799,484.08
+1012,Bedsheet,Home & Kitchen,699,459.09
+1013,Backpack,Fashion,1999,1480.84
+1014,T-Shirt,Fashion,1999,1442.77
+1015,Sneakers,Fashion,1599,970.25
+1016,Wallet,Fashion,399,210.13
+1017,Kurta,Fashion,1999,1161.38
+1018,Handbag,Fashion,249,147.9
+1019,Face Wash,Beauty & Personal Care,499,366.39
+1020,Hair Dryer,Beauty & Personal Care,999,558.8
+1021,Moisturizer,Beauty & Personal Care,199,139.08
+1022,Trimmer,Beauty & Personal Care,799,413.44
+1023,Shampoo,Beauty & Personal Care,2999,1780.09
+1024,Sunscreen,Beauty & Personal Care,799,453.79
+1025,Notebook Set,Books & Stationery,1299,864.56
+1026,Exam Guide,Books & Stationery,2499,1470.64
+1027,Planner,Books & Stationery,349,241.29
+1028,Pen Set,Books & Stationery,199,135.0
+1029,Desk Organizer,Books & Stationery,1999,1133.07
+1030,Art Supplies,Books & Stationery,249,183.41
