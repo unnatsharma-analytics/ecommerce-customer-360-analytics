@@ -30,6 +30,16 @@ The data is synthetic, which means it was made for practice. It is not real data
 - **Overview:** sales, estimated profit, customers, orders, and sales trends.
 - **Customer & Sales Insights:** order trends, payment methods, and repeat customers.
 - **Product & Profitability:** product sales, estimated profit, profit margin, and returns.
+- ## Dashboard Screenshots
+
+### 1. Executive Overview
+![Overview](Screenshots/01-overview.png.png)
+
+### 2. Customer & Sales Insights
+![Customer Sales](Screenshots/02-customer-sales-insights.png.png)
+
+### 3. Product & Profitability
+![Product Profitability](Screenshots/03-product-profitability.png.png)
 
 ## Business Insights
 - **Sales trend:** Identify months with higher or lower sales.
